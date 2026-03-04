@@ -22,14 +22,14 @@ Press `Enter` to open the selected item in Windsurf.
 
 ### Option A: Download the pre-built workflow
 
-1. Download `Open in Windsurf.alfredworkflow` from the [Releases](../../releases) page.
+1. Download `Open in Windsurf.alfredworkflow` from the [Releases](https://github.com/jgrune/alfred-open-in-windsurf/releases) page.
 2. Double-click the `.alfredworkflow` file — Alfred will import it automatically.
 
 ### Option B: Build from source
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/alfred-open-in-windsurf.git
+   git clone https://github.com/jgrune/alfred-open-in-windsurf.git
    cd alfred-open-in-windsurf
    ```
 2. Run the build script:
